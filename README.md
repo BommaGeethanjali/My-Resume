@@ -1,3 +1,4 @@
 # My-Resume
-📄 Resume: [Geethanjali_Resume.pdf](docs/Geethanjali_Resume.pdf)
+📄 Resume: [Click here to view](https://raw.githubusercontent.com/USERNAME/REPO/main/docs/Geethanjali_Resume.pdf)
+
 
