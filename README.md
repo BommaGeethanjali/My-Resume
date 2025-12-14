@@ -1,2 +1,3 @@
 # My-Resume
-📄 Resume: docs/Geethanjali_Resume.pdf
+📄 Resume: [Geethanjali_Resume.pdf](docs/Geethanjali_Resume.pdf)
+
